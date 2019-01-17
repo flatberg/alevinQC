@@ -8,7 +8,7 @@ Description: Generate QC report for alevin output.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Depends:
-    R (>= 3.6)
+    R (>= 3.5)
 Imports: 
     rmarkdown,
     tools,
